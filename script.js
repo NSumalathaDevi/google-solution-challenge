@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
             { title: "Time Lapses of Seeds Growing All the Day", videoId: "Time Lapses of seeds growing all the Day.mp4" },
             { title: "Child Developing in Mother's Womb", videoId: "Child Developing in mother's womb.mp4" },
             { title: "Transportation in Plants", videoId: "transportation in plants.mp4" },
-            { title: "Aquatic Life", videoId: "AquaticLife.mp4" } 
+            { title: "Aquatic Life", videoId: "Aquatic_Life.mp4" } 
         ],
         "Chemistry": [
             { title: "Periodic Table", videoId: "Periodic table.mp4" }

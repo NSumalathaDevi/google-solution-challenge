@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+#app {
+    max-width: 600px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    background-color: #008cba;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #005f73;
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0 0 5px 2px rgba(0, 140, 186, 0.7);
+}
+
+button:active {
+    background-color: #004b59;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 15px 0;
+    padding: 5px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+}
+
+li:hover {
+    background-color: #b3b3b3;
+}
+
+input, select, textarea {
+    width: 80%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#feedbackForm label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+#feedbackForm textarea {
+    width: 100%;
+    resize: vertical;
+}
+
+@media (max-width: 600px) {
+    #app {
+        width: 90%;
+        margin: 10px;
+        padding: 15px;
+    }
+    input, select, textarea {
+        width: 100%;
+    }
+}

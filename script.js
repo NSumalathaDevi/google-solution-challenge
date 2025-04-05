@@ -1,22 +1,22 @@
 document.addEventListener("DOMContentLoaded", () => {
     const subjects = {
         "Space and Astronomy": [
-            { title: "Each Planet in Solar System", videoId: "Each Planet in Solar System.mp4" },
-            { title: "The Day The Asteroid Struck in Jaw-Dropping", videoId: "The Day The Asteroid Struck in Jaw_Dropping.mp4" },
-            { title: "Solar System Tour", videoId: "Solar system.mp4" }
+            { title: "Each Planet in Solar System", videoId: "Video Files/Each Planet in Solar System.mp4" },
+            { title: "The Day The Asteroid Struck in Jaw-Dropping", videoId: "Video Files/The Day The Asteroid Struck in Jaw_Dropping.mp4" },
+            { title: "Solar System Tour", videoId: "Video Files/Solar system.mp4" }
         ],
         "Biology and Life sciences": [
-            { title: "Time Lapses of Seeds Growing All the Day", videoId: "Time Lapses of seeds growing all the Day.mp4" },
-            { title: "Child Developing in Mother's Womb", videoId: "Child Developing in mother's womb.mp4" },
-            { title: "Transportation in Plants", videoId: "transportation in plants.mp4" },
-            { title: "Aquatic Life", videoId: "Aquatic_Life.mp4" } 
+            { title: "Time Lapses of Seeds Growing All the Day", videoId: "Video Files/Time Lapses of seeds growing all the Day.mp4" },
+            { title: "Child Developing in Mother's Womb", videoId: "Video Files/Child Developing in mother's womb.mp4" },
+            { title: "Transportation in Plants", videoId: "Video Files/transportation in plants.mp4" },
+            { title: "Aquatic Life", videoId: "Video Files/Aquatic_Life.mp4" } 
         ],
         "Chemistry": [
-            { title: "Periodic Table", videoId: "Periodic table.mp4" }
+            { title: "Periodic Table", videoId: "Video Files/Periodic table.mp4" }
         ],
         "Earth Sciences": [
-            { title: "To The Earth's Core", videoId: "To The Earth's Core.mp4" },
-            { title: "Volcanic Eruption", videoId: "Volcanic Eruption.mp4" }
+            { title: "To The Earth's Core", videoId: "Video Files/To The Earth's Core.mp4" },
+            { title: "Volcanic Eruption", videoId: "Video Files/Volcanic Eruption.mp4" }
         ]
     };
 

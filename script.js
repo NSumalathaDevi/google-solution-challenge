@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const subjects = {
         "Space and Astronomy": [
-            { title: "Each Planet in Solar System", videoId: "Video Files/Each Planet in Solar System.mp4" },
             { title: "The Day The Asteroid Struck in Jaw-Dropping", videoId: "Video Files/The Day The Asteroid Struck in Jaw_Dropping.mp4" },
             { title: "Solar System Tour", videoId: "Video Files/Solar system.mp4" }
         ],
